@@ -9,4 +9,4 @@ function calculateArea(r) {
 }
 var radius =5.2;
 var theArea = calculateArea(radius);
-console.log("The area is : " + theArea);
+console.log("The area is: " + theArea);
